@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,7 +14,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2025-07-18 | [solution](problems/0036-calculate-accuracy-score) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-07-18 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2025-07-19 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2025-07-19 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2025-07-19 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2025-07-18 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-07-19 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-07-18 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-07-18 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2025-07-18 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
